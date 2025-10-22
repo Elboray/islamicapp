@@ -19,7 +19,7 @@ This project demonstrates clean Flutter architecture, responsive UI design, and 
 - 🕋 **Prayer Times** – Display daily prayer timings based on user location.  
 - 🔢 **Sebha (Tasbeeh Counter)** – Keep track of your dhikr with a simple animated counter.  
 - 🌄 **Azkar Section** – Morning and evening Azkar in a well-organized layout.  
-- 🌓 **Dark & Light Mode** – Automatically adjusts for better usability.  
+- 🌓 **Dark Mode** – Automatically adjusts for better usability.  
 - 📱 **Responsive Design** – Works smoothly across Android and iOS.  
 - ⚡ **Offline Mode** – Most features available without internet access.  
 
