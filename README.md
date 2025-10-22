@@ -52,6 +52,21 @@ This project demonstrates clean Flutter architecture, scalable UI, and practical
 
 ---
 
+## 👨‍💻 About the Developer
+
+### **Mahmoud Ahmed Mohamed Elboray**
+💙 *Flutter Developer* & 🎨 *UI/UX Designer*  
+
+A passionate Flutter Developer and UI/UX Designer who creates modern, user-friendly, and meaningful digital experiences.  
+Focused on building beautiful and functional mobile applications with clean design and smooth performance.
+
+---
+
+📫 **Contact & Portfolio**
+- 🔗 [Behance Portfolio](https://www.behance.net/74b3e886)  
+- 🌐 [GitHub Profile](https://github.com/Elboray)
+
+---
 
 ## 🛠️ Installation & Setup
 
@@ -74,13 +89,3 @@ flutter pub get
 flutter run
 
 ---
-## 👨‍💻 About the Developer
-
-**Mahmoud Ahmed Mohamed Elboray**  
- 💙 Flutter Developer & 🎨 UI/UX Designer 
-
-A passionate Flutter Developer and UI/UX Designer who creates modern, user-friendly, and meaningful digital experiences.  
-Focused on building beautiful and functional mobile applications with clean design and smooth performance.
-
-🔗 [Behance Portfolio](https://www.behance.net/74b3e886)  
-🌐 [GitHub Profile](https://github.com/Elboray)
