@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
         AppRoutes.hadethDetailsRouteName: (context) => HadethDetails(),
       },
       darkTheme: AppTheme.darkTheme,
-      themeMode: ThemeMode.dark,
+      themeMode: ThemeMode.dark ,
     );
   }
 }
